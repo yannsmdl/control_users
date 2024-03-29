@@ -15,9 +15,10 @@ Frameworks e bibliotecas: Express.js
 Banco de dados: PostgreSQL
 
 Como Executar o Projeto
-Clone este repositório em sua máquina local.
-Instale as dependências necessárias utilizando npm.
-Configure o ambiente conforme necessário, incluindo a configuração do banco de dados.
-Execute a aplicação utilizando o comando npm run dev.
-Para executar o build, use o comando npm run build.
-Para executar o projeto buildado, use o comando npm start.
+- Clone este repositório em sua máquina local.
+
+- Instale as dependências necessárias utilizando npm.
+- Configure o ambiente conforme necessário, incluindo a configuração do banco de dados.
+- Execute a aplicação utilizando o comando npm run dev.
+- Para executar o build, use o comando npm run build.
+- Para executar o projeto buildado, use o comando npm start.
